@@ -212,7 +212,7 @@ int main()
         }
         printf("\nThe Evaluation of expression %s  =  %d\n\n",expr,pop());
         cout<<"===================================THANK YOU========================================="<<endl;
-        cout<<"============================RAJIB ,TANVIR & SAQLAIN========================================"<<endl;
+       
         return 0;
 
     return 0;

@@ -29,7 +29,7 @@ int main(void)
 
     {
           xmold = xm;
-          xm = (b*f(a)-a*f(b))/(f(a)-f(b));
+          xm = (a*f(b)-b*f(a))/(f(b)-f(a));
 
          if (xm != 0 )
          {
